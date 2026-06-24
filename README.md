@@ -1,4 +1,7 @@
 ## Hi there 👋
+[![LinkedIn](https://shields.io)](www.linkedin.com/in/nadeem-ahmed-15033a328)
+[![Kaggle](https://shields.io)](https://www.kaggle.com/nadeemahmedghoto)
+
 
 <!--
 **NADEEMAHMED770/NADEEMAHMED770** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
